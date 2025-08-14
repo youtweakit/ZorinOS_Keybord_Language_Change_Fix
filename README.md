@@ -1,4 +1,4 @@
-# ZorinOS_Keybord_Language_Change_Fix
+# ZorinOS_Keyboard_Language_Change_Fix
 Simple bash script that fixes keyboard layout change from WIN+SPACE to classic ALT+SHIFT
 # USAGE
 1. First install depencies: apt install gnome-tweaks dconf-editor
