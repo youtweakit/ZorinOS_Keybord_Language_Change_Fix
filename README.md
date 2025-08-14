@@ -10,4 +10,4 @@ Simple bash script that fixes keyboard layout change from WIN+SPACE to classic A
 2. Запустите скрипт: /bin/bash ./keyboard_zorin_fix.sh
 3. Готово! Раскладка теперь меняется по ALT+SHIFT
 # ATTENTION! ВНИМАНИЕ! Default ZorinOS related keyboard shortcuts may NOT work after running this script!
-# После выполнения этого скрипта стандартные сочетания клавиш ZorinOS, связанные с клавиатурой, могут перестать работать!
+# После выполнения этого скрипта стандартные сочетания клавиш ZorinOS могут перестать работать!
